@@ -1,4 +1,4 @@
-# Muscle Injuries
+# Solve Problems
 
 ![image](MuscleInjuries.jpg)
 
