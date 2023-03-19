@@ -1,5 +1,5 @@
 # Solve Problems
 
-![image](MuscleInjuries.jpg)
+![image](SolveProblems.jpg)
 
 Additional details https://github.com/alpaddesai/LifeStyle
